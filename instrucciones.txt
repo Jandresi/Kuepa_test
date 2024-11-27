@@ -1,3 +1,7 @@
+VERSIÓN DE NODE y NPM:
+Node: v20.17.0
+npm: v10.8.2
+
 INICIALIZAR BACKEND:
 1. Abrir la consola estando dentro de la carpeta Kuepa_test_back
 2. Ejecutar el comando "npm install" para instalar todas las dependencias
