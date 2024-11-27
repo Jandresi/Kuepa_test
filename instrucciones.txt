@@ -1,0 +1,16 @@
+INICIALIZAR BACKEND:
+1. Abrir la consola estando dentro de la carpeta Kuepa_test_back
+2. Ejecutar el comando "npm install" para instalar todas las dependencias
+3. Tras la instalación de todo, deberá ejecutar "npm run dev" y la consola dirá en qué puerto está activo el servidor (3000)
+
+INICIALIZAR FRONTEND:
+1. Abrir la consola estando dentro de la carpeta Kuepa_test_back
+2. Ejecutar el comando "npm install" para instalar todas las dependencias
+3. 3. Tras la instalación de todo, deberá ejecutar "npm run dev" y la consola le mostrará el link donde puede ver el frontend.
+Puede copiarlo y pegarlo en el navegador o pulsar ctrl+clic
+
+USUARIOS:
+1. El único usuario MODERADOR que existe es jandresi@hotmail.com - password123
+2. Los estudiantes creados hasta ahora son prueba1@prueba.com, prueba2@prueba.com y prueba3@prueba.com
+Todos tienen la misma clave: password123
+3. Puede crear más usuarios si así lo desea desde la pestaña "crear usuario"
