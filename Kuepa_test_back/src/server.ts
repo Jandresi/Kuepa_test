@@ -33,6 +33,8 @@ async function main() {
         console.log('Servidor en puerto: '+portExpress);
     });
 
+    io.listen(portWebsocket)
+
     connectMongoDb();
 }
 
